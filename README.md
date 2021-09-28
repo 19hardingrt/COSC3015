@@ -1,2 +1,2 @@
 # COSC3015
-Functional Programming Assignments
+Functional Programming Assignment 3
